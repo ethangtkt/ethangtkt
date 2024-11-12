@@ -201,7 +201,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 ## *📊 Stats*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ethangtkt&hide=contribs&show_icons=true&title_color=FFFFFF&custom_title=GitHub%20Stats&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangtkt&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=ethangtkt&hide=contribs&show_icons=true&title_color=FFFFFF&custom_title=GitHub%20Stats&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
 </p>
  
