@@ -6,9 +6,6 @@
 	<a href="https://github.com/ethangtkt/VisualCalculations">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangtkt&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
-	<a href="https://github.com/ethangtkt/Personal-Website">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangtkt&repo=Personal-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,C5B4E3,C6A1CF" />
-	</a>
 	<h4>2021</h4>
 	<a href="https://github.com/ethangtkt/Meal-Tracker-Mobile-Application">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangtkt&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&hide_border=true&border_color=000000&show_owner=false&bg_color=20,AAFFD1,ABFF65" />
